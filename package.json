@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/app.js",
-    "start": "node src/app.js",
-    "prod": "pm2 src/app.js"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "prod": "pm2 src/index.js"
   },
   "author": "apnacollege",
   "license": "ISC",
